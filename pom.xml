@@ -7,7 +7,7 @@
     </parent>
     <artifactId>snmp4j</artifactId>
 	<packaging>jar</packaging>
-	<version>1.11.3</version>
+	<version>1.11.3-SNAPSHOT</version>
 	<name>SNMP4J</name>
     <description>A distribution of snmp4j, see snmp4j site for updates</description>
 	<url>https://github.com/kaazing/snmp4j</url>
